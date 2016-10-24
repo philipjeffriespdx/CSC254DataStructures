@@ -1,0 +1,8 @@
+﻿Build started 10/24/2016 2:49:43 PM.
+Project "\\vmware-host\Shared Folders\Desktop\GitHub C++ Labs\Lab8\lab8take2\lab8take2.vcxproj" on node 2 (Build target(s)).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab8.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+Done Building Project "\\vmware-host\Shared Folders\Desktop\GitHub C++ Labs\Lab8\lab8take2\lab8take2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.73
